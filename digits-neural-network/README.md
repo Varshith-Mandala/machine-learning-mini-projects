@@ -25,9 +25,7 @@ Classify handwritten digits (0–9) using:
 
 ![Accuracy Curve](images/accuracy_curve.png)
 
-## Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
 
 ## Key Observations
 - Increased model capacity reduced underfitting
